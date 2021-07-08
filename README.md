@@ -5,9 +5,11 @@ will create a folder with the video file name and will store the unique frames f
 
 Modules Used:-
 
-opencv
-os
-glob
-tqdm
-numpy
+opencv,
+os,
+glob,
+tqdm,
+numpy,
+
+As it is using naive method it will take time based on your video fps and length
 
